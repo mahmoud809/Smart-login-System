@@ -1,0 +1,13 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+
+    background-image: url(../imgs/patrick-tomasso-QMDap1TAu0g-unsplash.jpg);
+    background-position: center center;
+    background-size: cover;
+
+}
+
+h2 , span{
+    color: rgb(213, 185, 185);
+    font-family: 'Cairo', sans-serif;
+}
